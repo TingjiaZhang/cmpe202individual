@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.math.BigDecimal;
 
 import static java.lang.String.valueOf;
 
